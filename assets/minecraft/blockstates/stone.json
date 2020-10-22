@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/stone", "weight": 10},
+            { "model": "block/stone", "y": 90, "z": 90, "x": 90, "weight": 10},
+            { "model": "block/stone", "y": 180, "z": 180, "x": 180, "weight": 10},
+            { "model": "block/stone", "y": 270, "z": 0, "x": 0, "weight": 10},
+            { "model": "block/stone1", "weight": 10 },
+            { "model": "block/stone1", "y": 90, "z": 90, "x": 90, "weight": 10 },
+            { "model": "block/stone1", "y": 180, "z": 180, "x": 180, "weight": 10 },
+            { "model": "block/stone1", "y": 270, "z": 270, "x": 270, "weight": 10 },
+            { "model": "block/stone2", "weight": 5 },
+            { "model": "block/stone2", "y": 90, "z": 90, "x": 90, "weight": 5 },
+            { "model": "block/stone2", "y": 180, "z": 180, "x": 180, "weight": 5 },
+            { "model": "block/stone2", "y": 270, "z": 270, "x": 270, "weight": 5 },
+            { "model": "block/stone3", "weight": 20 },
+            { "model": "block/stone3", "y": 90, "z": 90, "x": 90, "weight": 20 },
+            { "model": "block/stone3", "y": 180, "z": 180, "x": 180, "weight": 20 },
+            { "model": "block/stone3", "y": 270, "z": 270, "x": 270, "weight": 20 }
+        ]
+    }
+}

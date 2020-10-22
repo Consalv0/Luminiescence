@@ -1,0 +1,10 @@
+{
+    "parent": "block/cube_column_end",
+    "textures": {
+        "end": "block/birch_log_top",
+        "north": "block/birch_log",
+        "east": "block/birch_log1",
+        "south": "block/birch_log",
+        "west": "block/birch_log1"
+    }
+}

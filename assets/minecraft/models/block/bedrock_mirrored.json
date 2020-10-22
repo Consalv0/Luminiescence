@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_mirrored",
+  "textures": {
+    "particle": "#up",
+    "up": "minecraft:block/bedrock",
+    "down": "minecraft:block/bedrock1",
+    "north": "minecraft:block/bedrock1",
+    "south": "minecraft:block/bedrock1",
+    "west": "minecraft:block/bedrock",
+    "east": "minecraft:block/bedrock1"
+  }
+}
