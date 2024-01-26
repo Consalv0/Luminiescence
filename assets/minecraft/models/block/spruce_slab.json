@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_side",
+  "textures": {
+    "end": "block/spruce_planks",
+    "ns": "block/spruce_planks/spruce_planks_half",
+    "we": "block/spruce_planks/spruce_planks_half1"
+  }
+}

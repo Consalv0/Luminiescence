@@ -1,7 +1,7 @@
 {
     "ambientocclusion": true,
     "textures": {
-        "particle": "blocks/fern",
+        "particle": "block/fern",
         "leaf": "block/fern",
         "stem": "block/fern_stem"
     },

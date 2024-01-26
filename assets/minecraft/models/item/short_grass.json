@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "block/grass/grass_inventory"
+        "layer0": "block/short_grass/short_grass_inventory"
         },
     "display": {
         "ground": {
